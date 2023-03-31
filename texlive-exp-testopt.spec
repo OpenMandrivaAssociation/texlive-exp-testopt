@@ -1,6 +1,6 @@
 Name:		texlive-exp-testopt
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Expandable \@testopt (and related) macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exp-testopt
