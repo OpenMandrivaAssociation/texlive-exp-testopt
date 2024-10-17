@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Expandable \@testopt (and related) macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exp-testopt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/exp-testopt
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exp-testopt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exp-testopt.doc.r%{version}.tar.xz
